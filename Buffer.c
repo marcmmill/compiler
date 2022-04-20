@@ -6,7 +6,7 @@
 * Assignment: 1
 * Date: 3 Feburary 2019
 * Professor: Sv. Ranev
-* Purpose: The source file containing the function definitions from the header file
+* Purpose: The source file containing the function definitions from the header file.
 * Function List: b_allocate(), b_addc(), b_clear(), b_free(), b_isfull(), b_limit(),
 * b_capacity(), b_mark(), b_mode(), b_incfactor(), b_load(), b_isempty(), b_getc(),
 * b_eob(), b_print(), b_compact(), b_rflag(), b_retract(), b_reset(), b_getcoffset(),
